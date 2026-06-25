@@ -29,4 +29,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://changle0245.github.io/zhongdong-waimao-kb/sitemap.xml
+Sitemap: https://zhongdong-waimao-kb.vercel.app/sitemap.xml
