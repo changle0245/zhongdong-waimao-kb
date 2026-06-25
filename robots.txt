@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# === AI 答案引擎爬虫·显式放行（被 ChatGPT/Claude/Perplexity/Google AI Overviews 抓取引用的前提）===
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://changle0245.github.io/zhongdong-waimao-kb/sitemap.xml
